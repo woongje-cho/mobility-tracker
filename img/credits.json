@@ -1,0 +1,106 @@
+{
+ "apollogo": {
+  "title": "(CHN-Hubei) Apollo Go Apollo RT6 Temporary-鄂A1395试 2025-12-17.jpg",
+  "author": "S5A-0043",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:(CHN-Hubei)_Apollo_Go_Apollo_RT6_Temporary-%E9%84%82A1395%E8%AF%95_2025-12-17.jpg",
+  "w": 1200,
+  "h": 675
+ },
+ "lidar": {
+  "title": "Moscow, Yandex self-driving Hyundai Sonata, Aug 2025 roof unit 03.jpg",
+  "author": "Retired electrician",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Moscow,_Yandex_self-driving_Hyundai_Sonata,_Aug_2025_roof_unit_03.jpg",
+  "w": 1200,
+  "h": 800
+ },
+ "battery": {
+  "title": "Lithium-Ion Battery for BMW i3 - SB-LiMotive Cells.JPG",
+  "author": "RudolfSimon",
+  "license": "CC BY-SA 3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Lithium-Ion_Battery_for_BMW_i3_-_SB-LiMotive_Cells.JPG",
+  "w": 1200,
+  "h": 847
+ },
+ "seoultaxi": {
+  "title": "Taxi Cab in South Korea.jpg",
+  "author": "Joshua T. Garcia",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Taxi_Cab_in_South_Korea.jpg",
+  "w": 1200,
+  "h": 1600
+ },
+ "charging": {
+  "title": "VinFast taxis charging at an electric vehicle charging station.jpg",
+  "author": "Baoothersks",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:VinFast_taxis_charging_at_an_electric_vehicle_charging_station.jpg",
+  "w": 1200,
+  "h": 900
+ },
+ "weride": {
+  "title": "WeRide Robotaxi GXR.jpg",
+  "author": "Kk0521",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:WeRide_Robotaxi_GXR.jpg",
+  "w": 1200,
+  "h": 899
+ },
+ "waymo": {
+  "title": "Waymo Jaguar I-Pace in San Francisco 2023 dllu.jpg",
+  "author": "Dllu",
+  "license": "CC BY 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Waymo_Jaguar_I-Pace_in_San_Francisco_2023_dllu.jpg",
+  "w": 1200,
+  "h": 900
+ },
+ "zoox": {
+  "title": "Zoox autonomous prototype vehicle on Lombard St San Francisco dllu.jpg",
+  "author": "Dllu",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Zoox_autonomous_prototype_vehicle_on_Lombard_St_San_Francisco_dllu.jpg",
+  "w": 1200,
+  "h": 900
+ },
+ "cybercab": {
+  "title": "Tesla Cybercab at Santana Row side view dllu.jpg",
+  "author": "Dllu",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Tesla_Cybercab_at_Santana_Row_side_view_dllu.jpg",
+  "w": 1200,
+  "h": 778
+ },
+ "ioniq5": {
+  "title": "Hyundai Ioniq 5 IAA 2021 1X7A0189.jpg",
+  "author": "Alexander Migl",
+  "license": "CC BY-SA 4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_IAA_2021_1X7A0189.jpg",
+  "w": 1200,
+  "h": 621
+ },
+ "unitree": {
+  "title": "Unitree G1.jpg",
+  "author": "Sayanesy",
+  "license": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Unitree_G1.jpg",
+  "w": 1200,
+  "h": 2023
+ },
+ "pony": {
+  "title": "(CHN-Guangdong) Pony.ai Lexus RX450h P6001 2024-05-24.jpg",
+  "author": "S5A-0043",
+  "license": "CC BY 2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:(CHN-Guangdong)_Pony.ai_Lexus_RX450h_P6001_2024-05-24.jpg",
+  "w": 1200,
+  "h": 675
+ },
+ "atlas": {
+  "title": "Atlas frontview 2013.jpg",
+  "author": "DARPA",
+  "license": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Atlas_frontview_2013.jpg",
+  "w": 1200,
+  "h": 1652
+ }
+}
